@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+jogo
+CMakeLists.txt
+cmake-build-*/
+build/
